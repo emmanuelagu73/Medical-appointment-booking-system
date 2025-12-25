@@ -1,8 +1,8 @@
 # lIbrary-management-system
 
-*Name : AGU EMMANUEL NNAEMEKA
-*Matric NO : 24/14101
-*Course Code : SEN 201
+# Name : AGU EMMANUEL NNAEMEKA
+# Matric NO : 24/14101
+# Course Code : SEN 201
 
 # 1. Requirement Analysis
 This system manages books in a library by allowing users to add books and view available books.
