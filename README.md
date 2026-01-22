@@ -1,33 +1,31 @@
-# lIbrary-management-system
+# Medical-appointment-booking-system
 
-# Name : AGU EMMANUEL NNAEMEKA
-# Matric NO : 24/14101
-# Course Code : SEN 201
+*  Name : AGU EMMANUEL NNAEMEKA
+*  Matric NO : 24/14101
+*  Department : Software Engineering
+*  Course Code : SEN 201
 
 # 1. Requirement Analysis
-This system manages books in a library by allowing users to add books and view available books.
+This system books and displays medical appointments.
 
 
-
-  # 2. System Design
-  
+# 2. System Design
 # Data Structure
-books = []
-
+* appointments = []
+  
 # Functions
-Function : 
-add_book() - Adds a book
-view_books() - Displays books
-main() - Controls system
+* book_appointment() -	Books appointment
+* view_appointments() -	Displays appointments
+* main() -	Controls program
 
 
 # 3. Testing
-Books were added and displayed to ensure correct functionality.
+Appointments were booked and displayed successfully.
 
 
 # 4. Deployment
-Uploaded to Github repository
+System deployed to GitHub.
 
 
 # 5. Maintenance
-System can be enhanced with book deletion and search functionality.
+Time-slot validation can be added.
